@@ -1,0 +1,18 @@
+#Resume-Template{
+  display:none;
+}
+* {
+  background-color:paleturquoise;
+}
+.myimg {
+  border: 1px solid #616247FF;
+  border-radius: 50%;
+  width: 300px;
+}
+.background {
+  background-color: #616247FF;
+  color:blue;
+}
+.palette {
+  background-color: #616247FF;
+}
